@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Cutting_.25145c69\\x64\\Debug\\Cutting_In_Queue_Lab.obj",
+            "outputs": [
+                "Cutting_.25145c69\\x64\\Debug\\Cutting_In_Queue_Lab.cpp.obj.dt.module.json",
+                "Cutting_.25145c69\\x64\\Debug\\Cutting_In_Queue_Lab.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
